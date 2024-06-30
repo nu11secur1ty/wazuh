@@ -3,5 +3,6 @@
 
 ### Install all in one
 ```
+bash update.sh
 bash wazuh-install.sh -a
 ```
