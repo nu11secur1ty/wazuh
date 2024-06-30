@@ -3,5 +3,5 @@
 
 ### Install all in one
 ```
-bash 
+bash wazuh-install.sh -a
 ```
